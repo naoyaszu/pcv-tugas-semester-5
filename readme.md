@@ -1,2 +1,2 @@
-## Image and Video Filtering
-using opencv library on Python, opening file with Spyder is recommended
+### Verdia Nachel Tunggal Dewi
+### 5024241012
